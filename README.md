@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 ### `Project Name : `
 
-Ema-John Authentication Module 
+Ema-John Authentication Module
 
 ### `npm start`
 
